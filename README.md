@@ -9,12 +9,4 @@ I iterate through over each team (keys in the dictionary), and iterate over each
 
 Finally, I print the matrix. The example input prints this:
 
-    BRO BSN CHC CIN NYG PHI PIT STL
-BRO  --  10  15  15  14  14  15  11
-BSN  12  --  13  13  13  14  12   9
-CHC   7   9  --  12   7  16   8  10
-CIN   7   9  10  --  13  13  13   8
-NYG   8   9  15   9  --  12  15  13
-PHI   8   8   6   9  10  --  13   8
-PIT   7  10  14   9   7   9  --   6
-STL  11  13  12  14   9  14  16  --
+![image](https://github.com/adpetes/Sports-Reference-Application/assets/39361831/c80fa63b-c8b3-466d-bd9b-e33c7ffc3c60)
